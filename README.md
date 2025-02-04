@@ -33,20 +33,6 @@ Five major trends were identified:
 An infographic summarizing the trends and their frequency across blog posts is included in the repository:  
 ![Healthcare Trends Infographic](TextAnalysis_PGBlog.png)
 
-Healthcare-Trends-Analysis/
-│
-├── Scraper.ipynb                # Web scraping script for Press Ganey articles
-├── TextAnalysis_PGBlog.ipynb    # Text analytics and trend analysis
-├── Healthcare_Trends_Infographic.png  # Final infographic
-├── requirements.txt             # List of required packages
-└── README.md                    # Project documentation
-
-Contact
-For questions or collaboration opportunities, feel free to reach out:
-
-Virginia Wenger
-Email: virginia.wenger@gmail.com
-GitHub: https://github.com/VirginiaWe
-
+<pre> ## Project Structure ``` Healthcare-Trends-Analysis/ │ ├── Scraper.ipynb # Web scraping script for Press Ganey articles ├── TextAnalysis_PGBlog.ipynb # Text analytics and trend analysis ├── TextAnalysis_PGBlog.png # Final infographic summarizing key trends ├── requirements.txt # List of required Python packages └── README.md # Project documentation ``` ## Contact For questions or collaboration opportunities, feel free to reach out: **Virginia Wenger** 📧 [virginia.wenger@gmail.com](mailto:virginia.wenger@gmail.com) 💻 [GitHub Profile](https://github.com/VirginiaWe) </pre>
 
 
