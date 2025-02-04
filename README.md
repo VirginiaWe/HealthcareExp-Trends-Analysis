@@ -31,7 +31,7 @@ Five major trends were identified:
 
 ## Visualization
 An infographic summarizing the trends and their frequency across blog posts is included in the repository:  
-![Healthcare Trends Infographic](Healthcare_Trends_Infographic.png)
+![Healthcare Trends Infographic](TextAnalysis_PGBlog.png)
 
 Healthcare-Trends-Analysis/
 │
